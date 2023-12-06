@@ -1,7 +1,7 @@
 # Defining Object Inheritance
 
 ## Learning Goals
-
+# Python goals
 - Reduce repeated code and enhance objects using inheritance.
   - Define object inheritance in Python.
   - Write classes that inherit from **superclasses**.
